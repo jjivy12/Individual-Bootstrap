@@ -1,0 +1,27 @@
+.topimage  {
+	background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;}
+
+.container-fluid{ 
+	border: 0;
+	padding: 0;
+}
+
+#container1{
+	background-color: skyblue;
+	font-style: 
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+li a:hover{
+	text-decoration-color: #e35443;
+	color: white;
+}
+
+.address, .cities, .copyright{
+	color: white;
+}
